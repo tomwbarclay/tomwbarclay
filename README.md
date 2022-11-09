@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tomwbarclay
-- 👀 I’m interested in C embedded develpopmewnt on ARM cortex devices
-- 🌱 I’m currently learning about UF2 bootloaders
+- 👋 Hi, I’m @tomwbarclay, retired electronics engineer.
+- 👀 I’m interested in C/C++ embedded development on ARM cortex devices, now Pi Pico
+- 🌱 I’m currently learning about UF2 bootloaders and Pi Pico state machines
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
